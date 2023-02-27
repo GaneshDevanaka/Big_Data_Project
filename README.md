@@ -18,6 +18,6 @@ We ran wordcount program on spark on the extracted file and ran the command "$SP
 The logs files that are generated are also uploaded to the repo with the name "spark_log_files"
 
 
-Note: out.json whhich we have mentioned in the project description, we were unable to upload it.
+Note: out.json which we have mentioned in the project description, we were unable to upload it.
 
 
